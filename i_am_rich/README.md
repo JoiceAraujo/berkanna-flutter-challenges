@@ -8,13 +8,12 @@ In this challenge you will learn how to:
 - Use the pubspec.yaml file
 - Add an icon to your app
 
-## Instructions
+## Directions
 
-Here is a list of instructions to complete this challenge:
+Here is a list of directions to complete this challenge:
 
-- The color of the app bar must to be the darkest shade of blue grey
-- The background color of the scaffold must to be the default shade of blue grey
-- The image must be in the perfect center of the screen independent of the orientation
+- All the assets you gonna need is in this [link](https://github.com/VictorTiburcio/berkanna-flutter-challenges/tree/main/assets/i_am_rich)
+- The mockup of the app is in this [link](https://www.figma.com/file/t1f03voqp1OlEjJTaYI7mk/I-am-rich?node-id=12%3A109)
 
 ## Tips
 
@@ -25,7 +24,8 @@ Some tips to help you in the challenge:
 
 ## Application Images
 
-<p align="center">
-    <img src="https://github.com/VictorTiburcio/berkanna-flutter-challenges/blob/main/assets/i_am_rich/iphone-11.png" width="200" max-height="50%"/>
-    <img src="https://github.com/VictorTiburcio/berkanna-flutter-challenges/blob/main/assets/i_am_rich/pixel-3a.png" width="200" max-height="50%"/>
+<p align="left">
+    <img src="https://github.com/VictorTiburcio/berkanna-flutter-challenges/blob/main/assets/i_am_rich/iphone-11.png" width="200" max-height="50%" margin-right="20"/>
+    <>
+    <img src="https://github.com/VictorTiburcio/berkanna-flutter-challenges/blob/main/assets/i_am_rich/pixel-3a.png" width="200" max-height="50%" margin-right="20"/>
 </p>
