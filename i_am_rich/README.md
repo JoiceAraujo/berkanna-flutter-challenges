@@ -25,6 +25,6 @@ Some tips to help you in the challenge:
 ## Application Images
 
 <p align="left">
-    <img src="https://github.com/VictorTiburcio/berkanna-flutter-challenges/blob/main/assets/i_am_rich/iphone-11.png" width="200" max-height="50%" margin-right="20"/>
-    <img src="https://github.com/VictorTiburcio/berkanna-flutter-challenges/blob/main/assets/i_am_rich/pixel-3a.png" width="200" max-height="50%" margin-right="20"/>
+    <img src="https://github.com/VictorTiburcio/berkanna-flutter-challenges/blob/main/assets/i_am_rich/iphone-11.png" width="200" max-height="50%" style="margin-right:20px"/>
+    <img src="https://github.com/VictorTiburcio/berkanna-flutter-challenges/blob/main/assets/i_am_rich/pixel-3a.png" width="200" max-height="50%" style="margin-right:20px"/>
 </p>
