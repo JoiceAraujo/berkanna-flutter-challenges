@@ -9,6 +9,7 @@ This is the list of all the projects who are currently in this repository:
 - [I Am Rich](https://github.com/VictorTiburcio/berkanna-flutter-challenges/tree/main/i_am_rich)
 - [Mi Card](https://github.com/VictorTiburcio/berkanna-flutter-challenges/tree/main/mi_card)
 - [Dicee](https://github.com/VictorTiburcio/berkanna-flutter-challenges/tree/main/dicee)
+- [Xylophone](https://github.com/VictorTiburcio/berkanna-flutter-challenges/tree/main/xylophone)
 
 ## Instructions
 

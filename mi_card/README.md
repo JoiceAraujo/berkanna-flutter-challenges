@@ -13,7 +13,7 @@ In this challenge you will learn how to:
 Here is a list of directions to complete this challenge:
 
 - All the assets you gonna need is in this [link](https://github.com/VictorTiburcio/berkanna-flutter-challenges/tree/main/assets/mi_card)
-- The mockup of the app is coming soon
+- The mockup of the app is in this [link](https://www.figma.com/file/yaodTinBp31tIAG4SNvOLA/MiCard?node-id=0%3A1)
 
 ## Tips
 
